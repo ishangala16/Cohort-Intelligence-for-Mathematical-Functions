@@ -1,1 +1,1 @@
-# -Cohort-Intelligence-for-Mathematical-Functions
+# Cohort-Intelligence-for-Mathematical-Functions
